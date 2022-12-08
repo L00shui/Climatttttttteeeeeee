@@ -1,11 +1,11 @@
-,Year,A,sigma
-9,2012,266310869405.0418,0.14544908809185414
-8,2013,283903840310.1132,0.12031396335583114
-7,2014,306418170612.66205,0.15280557248848128
-6,2015,271755298342.7277,0.2018800327747717
-5,2016,289400971905.782,0.17264207567876552
-4,2017,291754953972.4144,0.10155710611425693
-3,2018,294225325064.38464,0.20015251002135764
-2,2019,290181813295.74695,0.16227597065025207
-1,2020,206868587671.37823,0.4203505509434351
-0,2021,256902699069.12183,0.26711527364218607
+,Year,A,sigma,PD
+9,2012,266310869405.04208,0.14544908809185417,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+8,2013,283903840310.1131,0.12031396335583114,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+7,2014,306418170612.66205,0.15280557248848128,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+6,2015,271755298342.7276,0.20188003277477165,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+5,2016,289400971905.78204,0.17264207567876555,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+4,2017,291754953972.4143,0.10155710611425693,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+3,2018,294225325064.3845,0.2001525102766021,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+2,2019,290181813295.7468,0.16227597065025204,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+1,2020,206868587671.3782,0.42035055094343526,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
+0,2021,256902699069.12177,0.267115273642186,<module 'pandas' from 'C:\\Users\\mlab_3\\anaconda3\\lib\\site-packages\\pandas\\__init__.py'>
